@@ -5,7 +5,7 @@ import "./App.scss";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/portfolio">
         <Route path="/" exact>
           <Homepage />
         </Route>
