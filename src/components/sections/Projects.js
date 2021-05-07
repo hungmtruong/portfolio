@@ -19,6 +19,10 @@ const filters = [
   {
     id: 4,
     text: "JavaScript",
+  },
+  {
+    id: 5,
+    text: "Python",
   }
 ];
 
@@ -55,6 +59,25 @@ const allData = [
     link: [
       "https://hungmtruong.github.io/pong/"
     ],
+  },
+  {
+    id: 5,
+    title: "Yelp Rating Predictions - Created models to predict business' star ratings based on reviews.",
+    category: "Python",
+    image: "images/projects/Yelp.PNG",
+    link: [
+      "https://hungmtruong.github.io/yelp-review-predictions/"
+    ],
+  },
+  {
+    id: 6,
+    title: "NBA All-Star Predictions - Created models to predict if a play is an All-Star or not based on their statistics.",
+    category: "Python",
+    image: "images/projects/allstars.jpg",
+    link: [
+      "https://hungmtruong.github.io/nba-all-star-prediction/"
+    ],
+    
   }
 ];
 

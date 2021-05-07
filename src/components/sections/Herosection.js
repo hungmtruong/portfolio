@@ -36,17 +36,17 @@ function Herosection() {
 
           <ul className="social-icons light list-inline mb-0 mt-4">
             <li className="list-inline-item">
-              <a href="https://www.instagram.com/j.a.s.o.n.t/">
+              <a href="https://www.instagram.com/j.a.s.o.n.t/" target="_blank">
                 <i className="fab fa-instagram"></i>
               </a>
             </li>
             <li className="list-inline-item">
-              <a href="https://www.linkedin.com/in/hung-truong-213396b6/">
+              <a href="https://www.linkedin.com/in/hung-truong-213396b6/" target="_blank">
                 <i className="fab fa-linkedin"></i>
               </a>
             </li>
             <li className="list-inline-item">
-              <a href="https://github.com/hungmtruong">
+              <a href="https://github.com/hungmtruong" target="_blank">
                 <i className="fab fa-github"></i>
               </a>
             </li>

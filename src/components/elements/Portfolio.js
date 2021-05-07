@@ -20,6 +20,7 @@ function Portfolio({ portfolio }) {
     <>
       <a
         href={link}
+        target="_blank"
         className="work-image"
         onClick={handleLightbox}
       >
