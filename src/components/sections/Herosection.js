@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 function Herosection() {
   
 
-  return (
+  return ( 
     <section
       id="home"
       className={"home d-flex align-items-center"}

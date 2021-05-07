@@ -7,7 +7,7 @@ function Logo({ logoSource }) {
   return (
     <div className="site-logo">
       <Link to="/">
-        <img src={logoSource} alt="Hung" />
+        <img src="/images/logo.svg" alt="Hung" />
       </Link>
     </div>
   );
