@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hungmtruong/portfolio/static/css/main.8d2b7b6f.chunk.css",
+    "main.js": "/hungmtruong/portfolio/static/js/main.c2b86106.chunk.js",
+    "main.js.map": "/hungmtruong/portfolio/static/js/main.c2b86106.chunk.js.map",
+    "runtime-main.js": "/hungmtruong/portfolio/static/js/runtime-main.78075b11.js",
+    "runtime-main.js.map": "/hungmtruong/portfolio/static/js/runtime-main.78075b11.js.map",
+    "static/css/2.b0eab80d.chunk.css": "/hungmtruong/portfolio/static/css/2.b0eab80d.chunk.css",
+    "static/js/2.6e468cc1.chunk.js": "/hungmtruong/portfolio/static/js/2.6e468cc1.chunk.js",
+    "static/js/2.6e468cc1.chunk.js.map": "/hungmtruong/portfolio/static/js/2.6e468cc1.chunk.js.map",
+    "index.html": "/hungmtruong/portfolio/index.html",
+    "precache-manifest.5e97ce2a4f159dbae9af1ec94f1c8236.js": "/hungmtruong/portfolio/precache-manifest.5e97ce2a4f159dbae9af1ec94f1c8236.js",
+    "service-worker.js": "/hungmtruong/portfolio/service-worker.js",
+    "static/css/2.b0eab80d.chunk.css.map": "/hungmtruong/portfolio/static/css/2.b0eab80d.chunk.css.map",
+    "static/css/main.8d2b7b6f.chunk.css.map": "/hungmtruong/portfolio/static/css/main.8d2b7b6f.chunk.css.map",
+    "static/js/2.6e468cc1.chunk.js.LICENSE.txt": "/hungmtruong/portfolio/static/js/2.6e468cc1.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/hungmtruong/portfolio/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78075b11.js",
+    "static/css/2.b0eab80d.chunk.css",
+    "static/js/2.6e468cc1.chunk.js",
+    "static/css/main.8d2b7b6f.chunk.css",
+    "static/js/main.c2b86106.chunk.js"
+  ]
+}
