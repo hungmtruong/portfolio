@@ -60,7 +60,7 @@ function About() {
         <div className="row">
           <div className="col-md-3">
             <div className="text-center text-md-left">
-              <img src={"images/myAvatar.png"} alt={aboutContent.name} />
+              <img src={"myAvatar.png"} alt={aboutContent.name} />
             </div>
             <div className="spacer d-md-none d-lg-none" data-height="30"></div>
           </div>
