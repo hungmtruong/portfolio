@@ -61,7 +61,7 @@ function Herosection() {
               smooth={true}
               duration={500}
             >
-              Hire me
+              Let's talk!
             </Link>
           </div>
         </div>
