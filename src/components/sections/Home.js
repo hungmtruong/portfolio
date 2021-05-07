@@ -1,8 +1,8 @@
 import React from "react";
-import Typed from "react-typed";
+import Typewriter from 'typewriter-effect';
 import { Link } from "react-scroll";
 
-function Herosection() {
+function Home() {
   
 
   return ( 
@@ -16,23 +16,25 @@ function Herosection() {
           <img src="images/myPhoto.png" alt="Hung" className="mb-4" />
           
           <h1 className="mb-2 mt-0">Hung Truong</h1>
-          <p>
-            I{" "}
-            <Typed
-              strings={[
-                "",
-                " am a full stack developer.",
-                " love playing with new tech.",
-                " love my dogs.",
-              ]}
-              typeSpeed={80}
-              backSpeed={40}
-              attr="value"
-              loop
-            >
-              <label value></label>
-            </Typed>
-          </p>
+          <div>
+              <Typewriter
+                  onInit={(typewriter) => {
+                      typewriter.typeString("I'm a full-stack developer.")
+                      .changeDeleteSpeed(5)
+                      .pauseFor(1000)
+                      .deleteChars(26)
+                      typewriter.typeString(' love playing with new tech.')
+                      .pauseFor(1000)
+                      .deleteChars(22)
+                      typewriter.typeString('my dogs.')
+                      .pauseFor(1000)
+                      .start();
+                  }}
+                  options={{
+                      loop:true
+                  }}
+              />
+          </div>
 
           <ul className="social-icons light list-inline mb-0 mt-4">
             <li className="list-inline-item">
@@ -85,4 +87,4 @@ function Herosection() {
   );
 }
 
-export default Herosection;
+export default Home;

@@ -71,7 +71,7 @@ const allData = [
   },
   {
     id: 6,
-    title: "NBA All-Star Predictions - Created models to predict if a play is an All-Star or not based on their statistics.",
+    title: "NBA All-Star Predictions - Created models to predict if a player is an All-Star or not based on their statistics.",
     category: "Python",
     image: "images/projects/allstars.jpg",
     link: [

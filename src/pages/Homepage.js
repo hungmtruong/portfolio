@@ -5,7 +5,7 @@ import Footer from "../components/layouts/Footer";
 import About from "../components/sections/About";
 import Contact from "../components/sections/Contact";
 import Experiences from "../components/sections/Experiences";
-import Herosection from "../components/sections/Herosection";
+import Home from "../components/sections/Home";
 import Projects from "../components/sections/Projects";
 
 function Homepage() {
@@ -15,7 +15,7 @@ function Homepage() {
       <Header logoSource="/images/logo.svg" />
       <main className="content-3">
         <Element name="section-home">
-            <Herosection />
+            <Home />
         </Element>
         <Element name="section-about">
           <About />

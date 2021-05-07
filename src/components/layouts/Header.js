@@ -18,7 +18,7 @@ function Header({ logoSource }) {
 
   return (
     <header
-      className="desktop-header-3 fixed-top"
+      className="desktop-header fixed-top"
     >
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-dark">
