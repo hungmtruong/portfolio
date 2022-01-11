@@ -7,7 +7,7 @@ const aboutContent = {
   name: "Hung",
   avatarImage: "/images/myAvatar.png",
   content:
-    "Hi. I am Hung Truong, a new Computer Science graduate from Sacramento, CA. I have experience working in a SCRUM environment and enjoy learning new things, especially new tech. As a developer, I love making things and seeing it come to live."
+    "Hi. I am Hung Truong, a new Computer Science graduate from Sacramento, CA. I have experience working with Agile methodologies and enjoy learning new things, especially new tech. As a developer, I love making things and seeing it come to life."
 };
 
 const progressData = [
@@ -20,25 +20,25 @@ const progressData = [
   {
     id: 2,
     title: "HTML5/CSS3/VanillaJS",
-    percantage: 75,
+    percantage: 70,
     progressColor: "#ff4c60",
   },
   {
     id: 3,
     title: "PHP",
-    percantage: 75,
+    percantage: 65,
     progressColor: "#FFD15C",
   },
   {
     id: 4,
     title: "Laravel",
-    percantage: 75,
+    percantage: 70,
     progressColor: "#00ffff",
   },
   {
     id: 5,
     title: "React",
-    percantage: 65,
+    percantage: 60,
     progressColor: "#ff4c60",
   },
   {
@@ -71,7 +71,7 @@ function About() {
                 <div className="col-md-6">
                   <p>{aboutContent.content}</p>
                   <div className="mt-3">
-                    <a href="https://drive.google.com/file/d/17QEUoVGgwh3INHyzfOJZe_uc8vL2ZaGu/view?usp=sharing" target="_blank" className="btn btn-default">
+                    <a href="https://drive.google.com/file/d/12IvtLbD4flle2G_h6OGWnr0X4cQ-gd7a/view?usp=sharing" target="_blank" className="btn btn-default">
                       Resume
                     </a>
                   </div>

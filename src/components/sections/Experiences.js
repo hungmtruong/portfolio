@@ -16,11 +16,25 @@ const educationData = [
 const experienceData = [
   {
     id: 1,
+    title: "VxWorks Engineer (Wind River Fall Internship)",
+    years: "Oct. 2021 - Dec 2021",
+    content:
+      "Developed, maintained, and enhanced Docker image build and test pipelines.",
+  },
+  {
+    id: 2,
+    title: "Full Stack Developer (Contract)",
+    years: "Sept. 2020 - May 2021",
+    content:
+      "Implemented internal web application for Delta Hand Pies using LAMP stack with Laravel framework. Designed features to reduce time and effort for the staff by 50%",
+  },
+  {
+    id: 3,
     title: "Head Server",
     years: "2011 - 2016",
     content:
       "Managed customer experience in the food service industry. Initiated and delegated end-to-end operations of the dining room.",
-  }
+  },
 ];
 
 function Experiences() {
