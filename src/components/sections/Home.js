@@ -47,11 +47,7 @@ function Home() {
                 <i className="fab fa-linkedin"></i>
               </a>
             </li>
-            <li className="list-inline-item">
-              <a href="https://github.com/hungmtruong" target="_blank">
-                <i className="fab fa-github"></i>
-              </a>
-            </li>
+            
           
           </ul>
 
